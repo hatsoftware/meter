@@ -1,0 +1,18 @@
+{
+  "name": "simple-pwa",
+  "version": "1.0.0",
+  "description": "just testing out",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "JBE",
+  "license": "ISC"
+}
